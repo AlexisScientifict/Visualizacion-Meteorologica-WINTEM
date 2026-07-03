@@ -10,7 +10,7 @@ En la aviación y la meteorología, interpretar grandes volúmenes de datos tabu
 
 ## 📊 Visualización de Resultados
 
-![Mapa de Campos de Viento y Temperatura](./Reportes/mapa_wintem.png)
+![Mapa de Campos de Viento y Temperatura](./reportes/mapa_wintem.png)
 
 ## 🛠️ Tecnologías y Librerías Utilizadas
 
