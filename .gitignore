@@ -1,0 +1,4 @@
+.venv
+*/.venv/
+*:Zone.Identifier
+*.Identifier
